@@ -1,0 +1,15 @@
+{
+	"Text": {
+		"Content": "aca"
+		},
+	"Image": {
+		"URL / Path": "https://cdn.discordapp.com/attachments/786664707314155600/800345254459998218/disboard_org_L9giHcwu.png",
+		"Background_Color_to_Remove": null,
+		"Max_Image_Height": 750,
+		"Bottom_Offset": 0
+		},
+	"Settings": {
+		"Gradient_Rotation": true,
+		"Spotify_Logo": true
+		}
+}
