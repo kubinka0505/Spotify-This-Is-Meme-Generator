@@ -1,0 +1,23 @@
+{
+	"Text": {
+		"Content": ""
+		},
+	"Image": {
+		"URL / Path": "",
+		"Background Color to Remove": null,
+		"Max Image Height": 675,
+		"Bottom Offset": 0
+		},
+	"Settings": {
+		"Optimize": {
+			"Enabled": true,
+			"PNGQuant": {
+				"Location": null,
+				"Speed": 1,
+				"Colors": 256
+			}
+		},
+		"Gradient Rotation": true,
+		"Spotify Logo": true
+		}
+}
