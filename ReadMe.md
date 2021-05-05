@@ -6,8 +6,6 @@
 
 <p align="center"><a href="https://github.com/kubinka0505/Spotify-This-Is-Meme-Generator/issues/"><img src="https://img.shields.io/github/issues/kubinka0505/Spotify-This-Is-Meme-Generator?style=for-the-badge"></a>　<a href="https://www.gnu.org/licenses/gpl-3.0.txt"><img src="https://img.shields.io/badge/license-GPL%20V3-red?style=for-the-badge"></a></p>
 
-<p align="center"><img src="https://img.shields.io/codeclimate/maintainability/kubinka0505/Spotify-This-Is-Meme-Generator?logo=code-climate&style=for-the-badge"></a></p>
-
 <p align="center"><a href="https://colab.research.google.com/github/kubinka0505/Spotify-This-Is-Meme-Generator/blob/master/Documents/Spotify_This_Is_Meme_Generator.ipynb"><img src="https://img.shields.io/badge/colab-open-F9AB00?&logoColor=E8710A&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAATCAMAAADGSv/FAAABjFBMVEX/3gD/lgD/4yX/5R7/4hj/1QP/xgb/sQD/xgb/7AD/3QD/5AD/6AD/5SP/7Qv/wgD/yAD/vwD/7QD/xwX/6hX/7An/6wD/6RX/xgb/7gD/wQX/7AD/7gD/wQT/vQD/xwb/6w//7AP/7AH/wAT/6wD/vQD/xQb/6Rj/xQb/7AX/6BX/xQb/7AX/vQT/7wD/4xD/wwb/6h//xQb/7Ab/7An/wQb/5xn/6R3/xwb/6wz/xAb/wgX/6QD/6hD/7BD/7Qf/wQb/7gD/wQP/6wD/6w3/7Qv/xQX/7QL/7QD/6AD/xwb/yQb/xQb/6hL/xwb/wwX/wwX/4yz/xgX/xgb/uAD/6xL/7A7/wgb/xAb/xwb/xAb/xQX/7AP/xAf/7QL/6xX/6gL/wwf/7gD/wwX/xwb/7A3/xQf/wQb/6gD/wgX/7xz/xQf/5SX/5h7/7R//7RL/xQb/4gX/5xj/4R3/2Db/wQb/1zb/wwb/2jT/3DL/4CT/xQb/3yv/3S//3i7/4C7/4Cn/3gr/yAb/0QRzVjknAAAAAXRSTlMAQObYZgAAAJpJREFUeNqtkAEGw0AQRYclAnKNFaDIb3uIgpxlWBTQi7cz+9dMaBT6EPne37E70ln0w01ItVQlKDqwpJEINKAn9MCJV5h/wBvL6gWabXMPa8AQZwxgoggv2dM0fnOhCLmbywNYiPSnQju/5MXVj1fM3/bANMQO4KWdagU/OMPxBdBzuiIjDj0bB09WJaUvkOySuB4WMLXnxN83/jtyzaim+0gAAAAASUVORK5CYII="></a></p>
 
 ## Description
